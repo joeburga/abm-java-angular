@@ -4,7 +4,7 @@
 
 #### OPERACIONES BÁSICAS: 
 
-##### POST - Create a new customer(person).
-##### GET - Read a customer.
-##### PUT - Update an existing customer.
-##### DELETE - Delete a customer.
+* POST - Create a new customer(person).
+* GET - Read a customer.
+* PUT - Update an existing customer.
+* DELETE - Delete a customer.
